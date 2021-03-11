@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/jimmylunad/discord-bot/issues"
   },
-  "homepage": "https://github.com/jimmylunad/discord-bot#readme"
+  "homepage": "https://github.com/jimmylunad/discord-bot#readme",
+  "dependencies": {
+    "discord-message-handler": "^2.1.1",
+    "discord.js": "^12.5.1",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
 }
