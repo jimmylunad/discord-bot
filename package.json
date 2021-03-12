@@ -18,10 +18,16 @@
   "homepage": "https://github.com/jimmylunad/discord-bot#readme",
   "dependencies": {
     "discord-message-handler": "^2.1.1",
+    "discord-music-player": "^6.4.1",
     "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "himalaya": "^1.1.0",
     "koa": "^2.13.1",
     "koa-bodyparser": "^4.3.0",
     "lodash": "^4.17.21",
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "opusscript": "^0.0.8",
+    "parse5": "^6.0.1"
   }
 }
